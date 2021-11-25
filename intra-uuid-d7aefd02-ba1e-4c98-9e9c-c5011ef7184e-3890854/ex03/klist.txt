@@ -1,0 +1,5 @@
+Credentials cache: API:D65F37FE-CCA6-48B1-A857-E7E23CA3848A
+        Principal: maltunda@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Nov 22 18:05:38 2021  Nov 23 04:05:38 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
